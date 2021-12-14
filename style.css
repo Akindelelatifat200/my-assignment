@@ -1,0 +1,125 @@
+*{
+    padding: 0;
+    margin: 0;
+    margin: auto;
+    
+    
+}
+.maindiv{
+    width: 800px;
+    height: 400px;
+    background-color:white;
+    margin-top: 100px;
+    
+   
+   
+    
+}
+.navdiv{
+    width: 800px;
+    height: 180px;
+    background-color: solid white;
+    border: solid 2px rgb(240, 231, 231);
+    border-radius: 10px 10px 0px 0px;
+
+}
+.navdiv h3{
+    padding-top: 30px;
+    padding-left: 40px;
+    color: turquoise;
+    font-weight: bolder;
+    font-family: 'Times New Roman',;
+    font-size: 22px;
+    
+}
+.navdiv h4{
+    padding-left: 40px;
+    color: rgb(170, 182, 7);
+    font-family: Arial,;
+    font-size: 18px;
+    
+}
+.navdiv .orig{
+    padding-left: 40px;
+    color: rgba(9, 9, 100, 0.651);
+    font-size: 18px;
+
+}
+.navdiv p{
+    padding-left: 40px;
+    color: rgba(9, 9, 100, 0.651);
+    font-size: 18px;
+}
+.subdiv{
+    width: 800px;
+    height: 280px;
+    background-color: turquoise;
+    border-radius: 0px 0px 10px 10px;
+    
+}
+ .subdiv .first{
+    width:400px;
+    height: 280px;
+    float: left;
+    background-color: rgb(38, 180, 166);
+} 
+.first h5{
+    margin-top: 40px;
+    padding-left: 40px;
+    font-size: 19px;
+    color: white;
+}
+.first .doll{
+    padding-left: 40px;
+    font-size: 40px;
+    color: white;
+    
+
+}
+.first .doll span{
+    font-size: 18px;
+    color: turquoise;
+  
+
+}
+.subdiv .first p{
+    padding-left: 40px;
+    color: white;
+    font-size: 20px;
+
+}
+.first button{
+    background: rgba(255, 217, 0, 0.678);
+    color:white ;
+    width: 250px;
+    height: 43px;
+    border: solid 1px grey;
+    border-radius: 10px 10px 10px 10px;
+    margin-left:40px; 
+    font-size: 17px;
+    font-family: sans-serif;
+   
+}
+.subdiv .second{
+    width:400px;
+    height: 280px;
+    float: right;
+    background-color:rgb(98, 184, 175);
+}
+
+.subdiv .second h3{
+   color: white;
+   padding-left: 40px;
+   padding-top: 30px;
+   margin-bottom: 20px;
+   
+
+}
+.subdiv .second p{
+    color: white;
+    padding-left: 40px;
+    font-size: 18px;
+    font-family: Arial,;
+    height: 25px;
+   
+}
